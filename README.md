@@ -8,3 +8,4 @@ Files
 - favorite_solutions.csv: our best solution
 - testing.py: our unit tests to verify our objectives
 - test.png: verification of unit tests for test1.csv
+- link_to_git.txt: text file of github remote
